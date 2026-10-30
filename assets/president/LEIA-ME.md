@@ -1,0 +1,124 @@
+# Fotografias Président × Érick Jacquin
+
+Originais preservados, sem IA, ampliação ou remoção de elementos. Dimensões medidas nos arquivos baixados. Consulta: 30/10/2026.
+
+## Manteiga oficial Président 200g
+
+arquivo: 01_manteiga_oficial.png
+titulo: Manteiga oficial Président 200g
+dimensoes: 900 × 900
+origem: https://www.queijospresident.com.br/manteigas/pote/manteiga-president-pote-com-sal-200g/7891097001338/
+arquivo_direto: https://www.queijospresident.com.br/wp-content/uploads/2025/09/ManteigaPoteComSal200gProduto-min.png
+credito: Fotógrafo não informado; site Président Brasil
+periodo: Embalagem atualmente publicada. Data da fotografia não informada. PNG com transparência. Abaixo de 1200 px.
+
+## Érick Jacquin no restaurante
+
+arquivo: 02_retrato_jacquin_2021.jpg
+titulo: Érick Jacquin no restaurante
+dimensoes: 6016 × 4016
+origem: https://vejasp.abril.com.br/estabelecimento/president/
+arquivo_direto: https://vejasp.abril.com.br/wp-content/uploads/2021/10/President026.jpg
+credito: Ligia Skowronski / Veja SP
+periodo: Fase Président. Identificada pela fonte como COMER & BEBER 2021.
+
+## Ovo mexido com caviar
+
+arquivo: 03_prato_ovo_caviar.jpg
+titulo: Ovo mexido com caviar
+dimensoes: 2560 × 1707
+origem: https://gowhere.com.br/gastronomia/conheca-os-ganhadores-do-premio-campeoes-da-gastronomia-de-2025/
+arquivo_direto: https://gowhere.com.br/wp-content/uploads/2025/11/DSCF1855_Divulgacao-Thamilou-Photography-scaled.jpg
+credito: Divulgação Les Présidents / Thamilou Photography
+periodo: Publicado em 2025 na fase Les Présidents; data da captura não informada.
+
+## Fachada com nome original Président
+
+arquivo: 04_fachada_nome_original.webp
+titulo: Fachada com nome original Président
+dimensoes: 1600 × 1068
+origem: https://gm360.com.br/cases/les-presidents-erick-jacquin/
+arquivo_direto: https://gm360.com.br/_astro/hoteis-e-restaurantes-02.UOrMtYPB_Z9Apko.webp
+credito: gm360
+periodo: Letreiro Président visível. Data da captura não informada; não datar pela atualização da página.
+
+## Fachada documentada em 2019
+
+arquivo: 04b_fachada_registro_2019.jpg
+titulo: Fachada documentada em 2019
+dimensoes: 3019 × 2320
+origem: https://vejasp.abril.com.br/coluna/arnaldo-lorencato/erick-jacquin-inaugura-o-restaurante-president/
+arquivo_direto: https://vejasp.abril.com.br/wp-content/uploads/2019/12/president_fachada-e1575497212945.jpg
+credito: Arnaldo Lorençato / Veja SP
+periodo: Anterior à mudança. Reportagem de 04/12/2019; prévia da inauguração em 29/11/2019.
+
+## Placa Les Présidents
+
+arquivo: 05_placa_les_presidents.jpg
+titulo: Placa Les Présidents
+dimensoes: 1600 × 2133
+origem: https://espaces.com.br/restaurante-les-presidents-chef-erick-jacquin
+arquivo_direto: https://d2ggymwysgdto.cloudfront.net/1783110995515-3d21efa0.jpg
+credito: Fotógrafo não informado; publicada por Espaces
+periodo: Posterior à alteração do letreiro: Les Présidents visível. Data exata não informada.
+
+## Salão do restaurante
+
+arquivo: 06_salao.webp
+titulo: Salão do restaurante
+dimensoes: 1600 × 1068
+origem: https://gm360.com.br/cases/les-presidents-erick-jacquin/
+arquivo_direto: https://gm360.com.br/_astro/les-presidents-salao.B0WNMBGj_Z21Jx64.webp
+credito: gm360
+periodo: Data da fotografia não informada. A página atual usa Les Présidents; não comprova captura após a mudança.
+
+## Président na prateleira de supermercado
+
+arquivo: 07_prateleira.png
+titulo: Président na prateleira de supermercado
+dimensoes: 680 × 450
+origem: https://www.smurfitkappa.com/br/innovation/success-stories/lactalis-display-queijo-president
+arquivo_direto: https://www.smurfitkappa.com/br/-/m/images/image-text-teaser-680-x-450/customer-story/caixa-display-president-2.png?rev=c9379e2dd81749479f44d06e5b9ff9f1
+credito: Fotógrafo não informado; case institucional Smurfit Westrock
+periodo: Data não informada. Foto real do display na prateleira. Abaixo de 1200 px.
+
+## Logo oficial Président
+
+arquivo: 08_logo_president.png
+titulo: Logo oficial Président
+dimensoes: 1076 × 633
+origem: https://www.queijospresident.com.br/
+arquivo_direto: https://www.queijospresident.com.br/wp-content/themes/president/resources/images/new-logo.png
+credito: Président; autoria do design não informada
+periodo: Identidade oficial atual. Arquivo original; não é fotografia.
+
+## Logo oficial Les Présidents
+
+arquivo: 08b_logo_les_presidents.png
+titulo: Logo oficial Les Présidents
+dimensoes: 250 × 91
+origem: https://www.lespresidents.com.br/
+arquivo_direto: https://irp.cdn-website.com/548d2a62/dms3rep/multi/opt/president%2Bbranco-249w.png
+credito: Les Présidents; autoria do design não informada
+periodo: Identidade oficial atual; baixa resolução. Para comparação em tamanho maior, use a placa 05.
+
+## Foie gras com salada de mâche
+
+arquivo: extra_prato_2019.jpg
+titulo: Foie gras com salada de mâche
+dimensoes: 4032 × 3024
+origem: https://vejasp.abril.com.br/coluna/arnaldo-lorencato/erick-jacquin-inaugura-o-restaurante-president/
+arquivo_direto: https://vejasp.abril.com.br/wp-content/uploads/2019/12/president_foie_gras.jpg
+credito: Arnaldo Lorençato / Veja SP
+periodo: Anterior à mudança, publicado em 04/12/2019.
+
+## Manteiga Président tablete 200g
+
+arquivo: extra_manteiga_tablete.png
+titulo: Manteiga Président tablete 200g
+dimensoes: 1000 × 1000
+origem: https://www.santaluzia.com.br/manteiga-sem-sal-tablete-president--200g-530409/p
+arquivo_direto: https://santaluzia.vtexassets.com/arquivos/ids/1003925/530409.png?v=638979495836900000
+credito: Fotógrafo não informado; Casa Santa Luzia
+periodo: Embalagem publicada no varejo brasileiro. Data não informada. Abaixo de 1200 px.
+
